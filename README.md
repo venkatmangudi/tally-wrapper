@@ -9,3 +9,5 @@ Objectives of this project:
 * Allow transmission of financial transactions from other apps to Tally
 * Provide an easy alternative to recording transactions in Tally manually
 * Allow storing and sequencing transactions during a network outage so that they can be transmitted when it is back up
+
+A mailing list has been created at https://groups.google.com/forum/#!forum/tally-wrapper-dev for the members to collaborate and discuss. Please apply to join that group and get started.
